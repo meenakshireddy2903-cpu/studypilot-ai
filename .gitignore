@@ -1,0 +1,9 @@
+# Secrets - never upload
+.env
+# Virtual environment - anyone can recreate it from requirements.txt
+.venv/
+# Python and tool caches - generated automatically
+__pycache__/
+*.pyc
+.pytest_cache/
+.adk/
